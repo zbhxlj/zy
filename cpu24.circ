@@ -2084,9 +2084,8 @@ This file is intended to be loaded by Logisim http://logisim.altervista.org
       <a name="labelfont" val="Dialog plain 12"/>
       <a name="labelcolor" val="#000000"/>
       <a name="contents">addr/data: 10 32
-20090000 200b0020 20110001 20120001 a5310000 112020 20020022 c
-2328820 21290002 216bffff 1560fff8 200b0010 20090000 8d310000 112020
-20020022 c 21290004 216bffff 1560fff9 2002000a c
+2008ffff 20090000 20111997 112020 20020022 c 2288820 2e291949
+1120fffa 2002000a c
 </a>
       <a name="Select" val="high"/>
     </comp>
